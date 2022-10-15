@@ -1,0 +1,5 @@
+LICENSE.txt
+lib/
+bin/
+pyvenv.cfg
+producer.log
